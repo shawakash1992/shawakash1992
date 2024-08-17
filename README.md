@@ -1,4 +1,4 @@
-
+![logo](https://github.com/shawakash1992/shawakash1992/blob/main/akass%20banner.png)
 <h1 align="center">Hi 👋, I'm Akash Kumar Shaw</h1>
 <h3 align="center">A passionate Data Analytics from India</h3>
 <img align="right" alt="data analytics" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
